@@ -57,6 +57,7 @@ To combine **creativity**, **AI innovation**, and **cybersecurity engineering** 
 💼 LinkedIn: [Raghad Osman](https://www.linkedin.com/in/raghad-osman-3484432b2/)  
 🐙 GitHub: [raghadsaeed018](https://github.com/raghadsaeed018)  
 🤖 Hugging Face: [raghadsaeed018](https://huggingface.co/raghadsaeed018)  
+👾 Discord username: woohowo
 
 ---
 ⭐ *"Still in high school, already coding for the future — and securing it."*  
